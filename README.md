@@ -2,4 +2,4 @@
 PeterSto Web Site
 
 
-[](triptipscout.github.io) 
+[PeterSto](triptipscout.github.io) 
